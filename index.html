@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<link rel="stylesheet" href="style.css">
+	<title>Hello there</title>
+</head>
+<body>
+<h1>Our Menu</h1>
+<div class="grid-lg-3 grid-md-6">
+	<section>
+<header class="section1">Chicken</header>
+<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer et massa ligula. Phasellus id erat tristique massa pellentesque eleifend a eu nunc. Maecenas pretium accumsan enim quis eleifend. In ut elit bibendum, euismod risus fermentum, commodo dolor. Mauris ac est et ex laoreet pulvinar ut vitae odio. Sed vel turpis velit. Suspendisse potenti. Quisque tempus pulvinar elit, vitae cursus lacus tincidunt et. Proin tellus dui, malesuada quis consectetur a, convallis at libero. Curabitur sed aliquet diam. Aenean ac lacus a augue tincidunt volutpat tempor sed dolor. Suspendisse elementum congue porta.</p></section></div>
+<div class="grid-lg-3 grid-md-6">
+	<section>
+<header class="section2">Beef</header>
+<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer et massa ligula. Phasellus id erat tristique massa pellentesque eleifend a eu nunc. Maecenas pretium accumsan enim quis eleifend. In ut elit bibendum, euismod risus fermentum, commodo dolor. Mauris ac est et ex laoreet pulvinar ut vitae odio. Sed vel turpis velit. Suspendisse potenti. Quisque tempus pulvinar elit, vitae cursus lacus tincidunt et. Proin tellus dui, malesuada quis consectetur a, convallis at libero. Curabitur sed aliquet diam. Aenean ac lacus a augue tincidunt volutpat tempor sed dolor. Suspendisse elementum congue porta.</p></section></div>
+<div class="grid-lg-3 grid-md-12">
+	<section>
+<header class="section3">Sushi</header>
+<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer et massa ligula. Phasellus id erat tristique massa pellentesque eleifend a eu nunc. Maecenas pretium accumsan enim quis eleifend. In ut elit bibendum, euismod risus fermentum, commodo dolor. Mauris ac est et ex laoreet pulvinar ut vitae odio. Sed vel turpis velit. Suspendisse potenti. Quisque tempus pulvinar elit, vitae cursus lacus tincidunt et. Proin tellus dui, malesuada quis consectetur a, convallis at libero. Curabitur sed aliquet diam. Aenean ac lacus a augue tincidunt volutpat tempor sed dolor. Suspendisse elementum congue porta.</p></section></div>
+</body>
+</html>
